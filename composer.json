@@ -1,0 +1,10 @@
+{
+  "name": "ban/testTele",
+  "type": "project",
+  "require": {
+    "php": ">=7.0",
+    "longman/telegram-bot": "*",
+    "psr/log": "^1.0",
+    "monolog/monolog": "^1.24"
+  }
+}
